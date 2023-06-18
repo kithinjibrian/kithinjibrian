@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Kithinji! 👋
 
-<!--
-**kithinjibrian/kithinjibrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Software Engineer with a passion for building robust and scalable applications.
+- JavaScript enthusiast and advocate for clean and maintainable code.
+- Open source contributor and believer in the power of collaboration.
 
-Here are some ideas to get you started:
+## 🔭 My Projects
+- [Project 1](https://github.com/kithinjibrian/100daysofcode2023/imageprocessor): An image processor built with javascript and HTML canvas.
+- [Project 2](https://github.com/kithinjibrian/100daysofcode2023/spaceinvaders): 2D Game engine called nginy(pronounced "engine-y").
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I'm Currently Learning
+- Exploring new front-end frameworks like Vue.js.
+- Deepening my understanding of data structures and algorithms.
+- My favorite design patterns are publish-suscribe and memento.
+
+## 🚀 My Skills
+- Languages: JavaScript, HTML, CSS.
+- Frameworks/Libraries: Vue.js, Node.js, Express.js.
+- Databases: MongoDB, MySQL.
+- Version Control: Git, GitHub.
+- Other Tools: VS Code, Postman, Heroku.
+
+## 💼 Work Experience
+- Honestly, I'm looking for a job.
+
+## 👥 Connect with Me
+- Twitter: [Twitter_profile_link](https://twitter.com/_kithinjibrian)
+
+Thanks for visiting my profile! Feel free to explore my projects and reach out to me for any collaborations or opportunities. Let's connect and make a positive impact together!
