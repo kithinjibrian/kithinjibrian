@@ -6,8 +6,8 @@
 - Open source contributor and believer in the power of collaboration.
 
 ## 🔭 My Projects
-- [Project 1]([https://github.com/kithinjibrian/100daysofcode2023/imageprocessor](https://github.com/kithinjibrian/100daysofcode2023/tree/main/imageprocessor)): An image processor built with javascript and HTML canvas.
-- [Project 2]([https://github.com/kithinjibrian/100daysofcode2023/spaceinvaders](https://github.com/kithinjibrian/100daysofcode2023/tree/main/spaceinvaders)): 2D Game engine called nginy(pronounced "engine-y").
+- [Project 1](https://github.com/kithinjibrian/100daysofcode2023/tree/main/imageprocessor): An image processor built with javascript and HTML canvas.
+- [Project 2](https://github.com/kithinjibrian/100daysofcode2023/tree/main/spaceinvaders): 2D Game engine called nginy(pronounced "engine-y").
 
 ## 🌱 I'm Currently Learning
 - Exploring new front-end frameworks like Vue.js.
