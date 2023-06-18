@@ -1,4 +1,4 @@
-# Hi there, I'm Kithinji! 👋
+# Hi there, I'm Kithinji 👋
 
 ## 👨‍💻 About Me
 - Software Engineer with a passion for building robust and scalable applications.
